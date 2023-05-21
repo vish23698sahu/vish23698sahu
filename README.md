@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Vishakha Sahu 
+- 👋 Vishakha Sahu 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Front end Development
-- 📫 How to reach me vishakha2324sahu@gmail.com
+- 📫 How to reach me vishakhasahu023@gmail.com
 
 <!---
 vish23698sahu/vish23698sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
